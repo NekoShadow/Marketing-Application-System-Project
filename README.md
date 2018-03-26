@@ -160,7 +160,7 @@ First-Level Feature Labels, Second-Level Feature Labels, and Third-Level Feature
         
     2. Product Preference Features:
     
-        A number of Current Ordered Products, Speed of Broadband, etc.
+        The number of Current Ordered Products, Speed of Broadband, etc.
         
     3. Cable TV Viscosity Features:
     
